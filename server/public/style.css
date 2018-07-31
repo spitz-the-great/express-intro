@@ -1,0 +1,47 @@
+.employeeGrid{
+    display: grid;
+    border-collapse: collapse;
+    width: 100%;
+    border: 2px black;
+}
+
+#tableHeader, th{
+    text-align: left;
+    background-color: rgb(67,168,255);
+    padding: 10px;
+    size: 80px;
+
+    
+}
+
+table, tr{
+    text-align: left;
+
+}
+
+#totalLine{
+    text-align: right;
+}
+
+h1{
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+
+tr{
+    border: 2px black;
+    border-style: solid;
+}
+
+.lineAboveGrid{
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    size: 40px;
+
+}
+
+#addEmployee{
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+
